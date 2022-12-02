@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2017",
+    "jsx": "react",
+    /* Modules */
+    "module": "ES6",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    /* Emit */
+    "declaration": false,
+    "importHelpers": true,
+    /* Interop Constraints */
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,
+    /* Completeness */
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "packages/*/dist",
+    "packages/*/node_modules",
+    "packages/*/rollup.config.js"
+  ]
+}

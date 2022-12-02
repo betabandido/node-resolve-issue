@@ -1,0 +1,8 @@
+{
+  "name": "color-thief-test",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^6.0.3",
+    "prettier": "^2.7.1"
+  }  
+}

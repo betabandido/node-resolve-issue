@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "npmClient": "pnpm",
+  "useWorkspaces": true,
+  "useNx": true,
+  "version": "1.0.0",
+  "command": {
+    "publish": {
+      "registry": "https://vistaprint.jfrog.io/vistaprint/api/npm/npm/"
+    }
+  }
+}
